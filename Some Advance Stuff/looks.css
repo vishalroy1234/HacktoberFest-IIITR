@@ -14,5 +14,28 @@
 	color: yellow;
 }
 
-.temporary-cool-font{
+
+#container{
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.wrapper{
+	background-color: #1d2c4e;
+	margin: 2em;
+	flex: 1;
+	max-width: 30vw;
+	min-width: 300px;;
+}
+.wrapper > h1{
+	padding: 1rem;
+}
+.wrapper > p{
+	margin-top: -1rem;
+	padding: 0 1rem;
+}
+.wrapper:hover{
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	box-shadow: 0 5px 15px rgba(0,0,0,0.4);
 }
