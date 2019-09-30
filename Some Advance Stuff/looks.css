@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "monoSpace";
+	src: url("Some Advance Stuff/monos.ttf");
+}
+
+ body {
+	font-family:monoSpace !important;
+  	background-color: #152347;
+	color: white;
+   
+}
+
+.yellow-highlight{
+	color: yellow;
+}
+
+.temporary-cool-font{
+}
