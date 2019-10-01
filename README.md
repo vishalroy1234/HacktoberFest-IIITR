@@ -1,4 +1,4 @@
-# HacktoberFest-IIITR# Hacktoberfest IIIT Ranchi
+# Hacktoberfest IIIT Ranchi
 This repository serves the purpose for students to get acquainted to open source. Efforts are being put to make this project beginner friendly and the Hacktoberfest organized at IIIT Ranchi is the perfect oppurtunity for geeks/nerds to get their hands dirty by making their first pull request.
 
 --------------------------------------------
