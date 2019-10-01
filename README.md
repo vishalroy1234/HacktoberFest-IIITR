@@ -3,7 +3,7 @@ This repository serves the purpose for students to get acquainted to open source
 
 --------------------------------------------
 ## Prerequisites
-* Git [Download the [[latest version](https://git-scm.com/download/win)]
+* Git [Download the [latest version](https://git-scm.com/download/win)]
 * Any text editor [[Atom](https://atom.io/download/windows_x64) , [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user), [Sublime Text](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe)]
 
 ## Installation
@@ -28,4 +28,32 @@ You can check if you have installed git by opening the terminal and writing this
 ```bash
 $ git --version
 ```
-You can follow the detailed guide [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create a pull request.
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone your fork to your local machine
+
+```bash
+git clone https://github.com/your-username/HacktoberFest-IIITR.git
+```
+* Create a branch
+
+```bash
+git checkout -b branch-name
+```
+
+* Make the necessary changes in your local copy
+* Commit and push
+
+```bash
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
+* Create a new pull request from your forked repository (Click the ```New Pull Request``` button located at the top of your repository)
+* Wait for your PR review and merge approval!
+
+If you want the detailed guide on how to create a pull request then you may click [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create a pull request.
+
+## What to contribute?
+------------------------------------------------
+
+* You can resolve any open issues or add some exciting features to this repository!!!
